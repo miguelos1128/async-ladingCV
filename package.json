@@ -4,7 +4,7 @@
   "description": "Repositorio creado en el curso de Asincronismo con Java Script de Platzi con el Profe Oscar barajas",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d src"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/miguelos1128/async-ladingCV/issues"
   },
-  "homepage": "https://github.com/miguelos1128/async-ladingCV#readme"
+  "homepage": "https://github.com/miguelos1128/async-ladingCV#readme",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }
