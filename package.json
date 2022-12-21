@@ -1,0 +1,22 @@
+{
+  "name": "async-ladingcv",
+  "version": "1.0.0",
+  "description": "Repositorio creado en el curso de Asincronismo con Java Script de Platzi con el Profe Oscar barajas",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguelos1128/async-ladingCV.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miguelos1128/async-ladingCV/issues"
+  },
+  "homepage": "https://github.com/miguelos1128/async-ladingCV#readme",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
