@@ -1,0 +1,13 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 7b6d357..d05bd4f 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -52,7 +52,7 @@[m
+     </div>[m
+     <div class="lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2">[m
+       <img class="h-56 w-full object-cover sm:h-72 md:h-96 lg:w-full lg:h-full"[m
+[31m-        src="https://scontent.ftlc2-1.fna.fbcdn.net/v/t39.30808-6/292817131_562701011931029_1509870314145335638_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=2RZXY06VD-EAX9Hlxd_&_nc_ht=scontent.ftlc2-1.fna&oh=00_AfBJHNDm0KoRND2akDgNORb7KlKzfCy_fTWaIK12sWfvVw&oe=6379001A" alt="">[m
+[32m+[m[32m        src="https://sitepruebas-miguelos1128.000webhostapp.com/curso-terminal.png" alt="">[m
+     </div>[m
+   </div>[m
+   <div class="bg-white">[m
